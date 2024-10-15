@@ -1,2 +1,3 @@
 rootProject.name = 'Nowy_projekt_kodilla'
+include 'kodilla-intro'
 
