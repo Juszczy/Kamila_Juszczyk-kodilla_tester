@@ -16,8 +16,6 @@ System.out.println(znak);
 
         }
 
-}
-
 
 
 

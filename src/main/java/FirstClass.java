@@ -1,10 +1,16 @@
-public class FirstClass {                           // [1]
+public class FirstClass {
+    public static String good() {
+        return "To jest dobry przykład!";
+    }
+
     public static void main(String[] args) {         // [2]
-        String example = sayHello();
+        String example = good();
+
         System.out.println(example);// [3]
     }
-    private static String sayHello() {
-        String text = "Hello from FirstClass!";
-        return text;
-    }
 }
+
+
+
+
+
