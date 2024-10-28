@@ -1,12 +1,27 @@
 public class FirstClass {
-    public static String dance() {
-        return "To jest dobry taniec!";
+    public static void main(String[] args) {
+        int firstNumber = 11;
+        int secondNumber = 22;
+
+        System.out.println(firstNumber);
+        System.out.println(secondNumber);
+
+        if (firstNumber == secondNumber) {
+            subtractAndDisplay(firstNumber, secondNumber);
+        } else {
+            sumAndDisplay(firstNumber, secondNumber);
+        }
+    }
+    private static void sumAndDisplay(int a, int b) {
+        int result = a + b;
+
+        System.out.println(result);
     }
 
-    public static void main(String[] args) {         // [2]
-        String example = dance();
+    private static void subtractAndDisplay(int a, int b) {
+        int result = a - b;
 
-        System.out.println(example);// [3]
+        System.out.println(result);
     }
 }
 
