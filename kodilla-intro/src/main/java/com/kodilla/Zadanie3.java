@@ -2,8 +2,8 @@ package com.kodilla;
 
 public class Zadanie3 {
     public static void main(String[] args){
-int wynik=dodajTrzy(7);
-System.out.println("Wynik: "+wynik);
+int wynik=praca(7);
+System.out.println(wynik);
 wynik=dodajTrzy(12);
 System.out.println(wynik);
 wynik=dodajTrzy(213);
@@ -56,6 +56,11 @@ System.out.println(wynik);
 
 
     }
+    static int praca(int cyfra){
+        int wynik=cyfra-5;
+        return wynik;
 
 
-}
+
+        }
+    }
