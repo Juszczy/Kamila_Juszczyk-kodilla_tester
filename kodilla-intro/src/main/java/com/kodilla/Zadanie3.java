@@ -2,7 +2,7 @@ package com.kodilla;
 
 public class Zadanie3 {
     public static void main(String[] args){
-int wynik=dodawanie(5,10);
+int wynik=dodajCztery(4);
 System.out.println(wynik);
 wynik=dodajTrzy(12);
 System.out.println(wynik);
