@@ -49,32 +49,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DebugExample.executor": "Coverage",
-    "Application.HelloWorld.executor": "Run",
-    "Gradle.Build Nowy_projekt_kodilla.executor": "Run",
-    "Gradle.Nowy_projekt_kodilla [:DebugExample.main()].executor": "Run",
-    "Gradle.Nowy_projekt_kodilla [:FirstClass.main()].executor": "Run",
-    "Gradle.Nowy_projekt_kodilla [:Main.main()].executor": "Run",
-    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:FirstClass.main()].executor": "Run",
-    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:MainExtended.main()].executor": "Run",
-    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.DebugExample.main()].executor": "Debug",
-    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.MainExtended.main()].executor": "Run",
-    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie2.main()].executor": "Run",
-    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie3.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/bulis/code/Nowy_projekt_kodilla/kodilla-intro/src/main/java/com/kodilla/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DebugExample.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build Nowy_projekt_kodilla.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla [:DebugExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla [:FirstClass.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:FirstClass.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:MainExtended.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.DebugExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.MainExtended.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/bulis/code/Nowy_projekt_kodilla/kodilla-intro/src/main/java/com/kodilla/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Zadanie3">
     <configuration name="DebugExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DebugExample" />
@@ -154,7 +154,8 @@
       <workItem from="1729605822774" duration="4477000" />
       <workItem from="1729695736033" duration="3185000" />
       <workItem from="1729942314642" duration="4477000" />
-      <workItem from="1730132172403" duration="2368000" />
+      <workItem from="1730132172403" duration="2877000" />
+      <workItem from="1730231229067" duration="5668000" />
     </task>
     <task id="LOCAL-00001" summary="Nowe">
       <option name="closed" value="true" />

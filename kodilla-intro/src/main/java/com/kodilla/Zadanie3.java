@@ -2,14 +2,17 @@ package com.kodilla;
 
 public class Zadanie3 {
     public static void main(String[] args){
-        String a=noName();
-        int one=school();
-        boolean b=house();
-        int dzialanie=mnozenie(1000);
-        System.out.println(dzialanie);
+int wynik=dodajTrzy(7);
+System.out.println("Wynik: "+wynik);
+wynik=dodajTrzy(12);
+System.out.println(wynik);
+wynik=dodajTrzy(213);
+System.out.println(wynik);
+
+wynik=dodajTrzy(wynik);
 
 
-
+System.out.println(wynik);
     }
     private static String noName(){
         String text="Kaja";
@@ -47,4 +50,12 @@ public class Zadanie3 {
         int wynik=2*drugaCyfra;
         return wynik;
     }
+    static int dodajTrzy(int cyfra){
+        int wynik=cyfra+3;
+        return wynik;
+
+
+    }
+
+
 }
