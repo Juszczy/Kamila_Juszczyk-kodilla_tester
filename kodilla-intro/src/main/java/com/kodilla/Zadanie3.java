@@ -2,7 +2,7 @@ package com.kodilla;
 
 public class Zadanie3 {
     public static void main(String[] args){
-int wynik=praca(7);
+int wynik=dodawanie(5,10);
 System.out.println(wynik);
 wynik=dodajTrzy(12);
 System.out.println(wynik);
@@ -50,10 +50,14 @@ System.out.println(wynik);
         int wynik=2*drugaCyfra;
         return wynik;
     }
-    static int dodajTrzy(int cyfra){
-        int wynik=cyfra+3;
+    static int dodajTrzy(int cyfra) {
+        int wynik = cyfra + 3;
         return wynik;
 
+    }
+    static int dodajCztery(int cyfra){
+        int wynik=cyfra + 4;
+        return wynik;
 
     }
     static int praca(int cyfra){
@@ -62,5 +66,9 @@ System.out.println(wynik);
 
 
 
+        }
+        static int dodawanie(int a, int b){
+        int wynik=a+b;
+        return wynik;
         }
     }
