@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e10623d9-fc25-4b0b-9d9a-d8b37baffb68" name="Changes" comment="Nowe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/com/kodilla/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/com/kodilla/Zadanie3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/SimpleArrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/SimpleArrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,42 +50,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DebugExample.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Build Nowy_projekt_kodilla.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla [:DebugExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla [:FirstClass.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla [:Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:FirstClass.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:MainExtended.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.DebugExample.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.MainExtended.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie2.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie3.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/bulis/code/Nowy_projekt_kodilla/kodilla-intro/src/main/java/com/kodilla/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DebugExample.executor": "Coverage",
+    "Application.HelloWorld.executor": "Run",
+    "Application.SimpleArrary.executor": "Run",
+    "Gradle.Build Kamila_Juszczyk-kodilla_tester.executor": "Run",
+    "Gradle.Build Nowy_projekt_kodilla.executor": "Run",
+    "Gradle.Kamila_Juszczyk-kodilla_tester [:FirstClass.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla [:DebugExample.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla [:FirstClass.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla [:Main.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:FirstClass.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:MainExtended.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.DebugExample.main()].executor": "Debug",
+    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.MainExtended.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie2.main()].executor": "Run",
+    "Gradle.Nowy_projekt_kodilla:kodilla-intro [:kodilla-intro:com.kodilla.Zadanie3.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/bulis/code/Nowy_projekt_kodilla/kodilla-intro/src/main/java/com/kodilla/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Zadanie3">
+}]]></component>
+  <component name="RunManager" selected="Application.SimpleArrary">
     <configuration name="DebugExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DebugExample" />
-      <module name="Nowy_projekt_kodilla.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstClass" />
       <module name="Nowy_projekt_kodilla.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,6 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleArrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleArrary" />
+      <module name="Nowy_projekt_kodilla.kodilla-intro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.Zadanie3" />
       <module name="Nowy_projekt_kodilla.kodilla-intro.main" />
@@ -119,21 +123,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleArrary" />
         <item itemvalue="Application.Zadanie3" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DebugExample (1)" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.FirstClass" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
